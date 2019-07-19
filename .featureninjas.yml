@@ -1,0 +1,13 @@
+# Version information (is always 1.0)
+version: 1.0
+
+# (mandatory)
+# Feature toggle file name
+#   Contains the name of the file with the feature toggles.
+file: fn-master.json
+
+# (optional)
+# Security Token
+#   If this is set, then you have to provide this token via every request to
+#   get your feature toggle configuration in the HTTPS header X-FeatureNinjas-Token
+token: rtqoq85r1f6vejwuxtb1l
