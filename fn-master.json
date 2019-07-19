@@ -1,0 +1,5 @@
+{
+  "backupEnabled": true,
+  "backupInterval": 10000,
+  "backupFormat": "xlsx|csv|mysql"
+}
